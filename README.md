@@ -3,6 +3,7 @@
 Simple quine program in C.
 
 Inspired by the quine clock from tsoding: https://www.twitch.tv/videos/2170250815
+
 Quine: https://en.wikipedia.org/wiki/Quine_(computing)
 
 Just run make. It compiles quine.c and then uses it to generate its own source in quine2.c

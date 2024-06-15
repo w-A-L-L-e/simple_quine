@@ -6,6 +6,8 @@ Inspired by the quine clock from tsoding: https://www.twitch.tv/videos/217025081
 
 Quine: https://en.wikipedia.org/wiki/Quine_(computing)
 
+Javascript quine clock:  https://aem1k.com/qlock/
+
 Just run make. It compiles quine.c and then uses it to generate its own source in quine2.c
 When you run it output is identical to its own source. The tsoding version is also a clock. 
 But I just wanted the quine part in a non obfuscated form.
